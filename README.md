@@ -50,8 +50,8 @@ I love tackling challenges across diverse technological domains.
 ---
 
 ## 📫 Let's Connect!
-* 💼 [LinkedIn Profile](https://www.linkedin.com/in/abhishek-khode-1650372a0)
-* ✉️ [Email](mailto:abhishekhitm99@gmail.com)
+* 💼 [Abhishek Khode](https://www.linkedin.com/in/abhishek-khode-1650372a0)
+* ✉️ [abhishekhitm99@gmail.com](mailto:abhishekhitm99@gmail.com)
 
 <!---
 Abhishekkhode/Abhishekkhode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
